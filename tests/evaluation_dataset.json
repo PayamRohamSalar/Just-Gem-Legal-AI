@@ -1,0 +1,7 @@
+[
+    {
+        "question": "سوال نمونه اول؟",
+        "expected_answer_snippet": "بخشی از پاسخ مورد انتظار",
+        "expected_citation": "ماده X قانون Y"
+    }
+]

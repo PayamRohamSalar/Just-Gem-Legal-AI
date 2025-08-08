@@ -1,0 +1,18 @@
+# Web Framework & Server
+fastapi
+uvicorn
+
+# User Interface
+streamlit
+
+# Core AI & NLP Libraries
+langchain
+transformers
+torch
+sentence-transformers
+
+# Vector Database
+chromadb-client
+
+# Data Ingestion
+python-docx
